@@ -6,4 +6,4 @@ This is just a example usage of conditions in CDK.
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/cdkcondition)
+[description](https://note.figmentresearch.com/aws/cdkcondition)
